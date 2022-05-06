@@ -11,6 +11,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 import sys
 sys.path.append(r'C:\Users\sdisawal\Desktop')
+sys.path.append(r'C:\Users\sdisawal\Anaconda3\envs\mission9pm\chromedriver')
 import cred as c
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -39,13 +40,13 @@ element = WebDriverWait(driver, 10).until(
     )
 #select date and time
 
-driver.find_element_by_xpath('//td[@id="m18"]/span').click()
+driver.find_element_by_xpath('//td[@id="m11"]/span').click()
 
-element = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.XPATH, '//*[@id="a4"]/div[1]/div'))
-    )
+#element = WebDriverWait(driver, 10).until(
+ #       EC.presence_of_element_located((By.XPATH, '//*[@id="a4"]/div[1]/div'))
+  #  )
 
-driver.find_element_by_xpath('//*[@id="a4"]/div[1]/div').click()
+driver.find_element_by_xpath('//*[@id="a0"]/div[1]/div').click()
 
 x = driver.find_element_by_id('bbox_wait')
 #x = driver.find_element_by_id('bbox_new')
@@ -57,6 +58,7 @@ x.click()
 #driver.find_element_by_xpath('//*[@id="bbox"]/span/a').click()
 #driver.implicitly_wait(5) # seconds
 
+#%%
 
 button = driver.find_element_by_xpath('//*[@id="bbox"]/div/div[8]/div[2]/span/a[3]')
 ActionChains(driver).move_to_element(button).click(button).perform()
@@ -70,10 +72,12 @@ ActionChains(driver).move_to_element(button).click(button).perform()
 #     EC.element_to_be_clickable((By.XPATH, '//*[@id="bbox"]/div/div[8]/div[2]/span/a[3]'))
 # )   
 #EC.presence_of_element_located((By.XPATH, '//*[@id="m18"]'))
+
 #driver.find_element_by_xpath('//*[@id="bbox"]/div/div[8]/div[2]/span/a[3]').click()
+
 button=driver.find_element_by_xpath('//*[@id="booking"]/div/form/div[2]/span/button')
 ActionChains(driver).move_to_element(button).click(button).perform()
-
+#%%
 #Input team members
 button=driver.find_element_by_xpath('//*[@id="form_7"]')
 ActionChains(driver).move_to_element(button).send_keys('A').perform()
@@ -93,5 +97,23 @@ print(time.time() - start_time)
 
 
 #driver.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
