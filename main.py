@@ -48,20 +48,19 @@ driver.find_element_by_xpath('//td[@id="m11"]/span').click()
 
 driver.find_element_by_xpath('//*[@id="a0"]/div[1]/div').click()
 
-x = driver.find_element_by_id('bbox_wait')
+driver.find_element_by_id('bbox_wait').click()
 #x = driver.find_element_by_id('bbox_new')
-print( driver.find_element_by_id('bbox_new'))
-x.click()
+#print( driver.find_element_by_id('bbox_new'))
+#x.click()
 #driver.find_element_by_xpath("/html/body/div[4]/div/div[8]/div[2]/span/a[2]").click()
 
 # "x" on the window
 #driver.find_element_by_xpath('//*[@id="bbox"]/span/a').click()
 #driver.implicitly_wait(5) # seconds
 
-#%%
-
-button = driver.find_element_by_xpath('//*[@id="bbox"]/div/div[8]/div[2]/span/a[3]')
-ActionChains(driver).move_to_element(button).click(button).perform()
+#this is done to move the window, the booking window opens but hids behind the original window
+#button = driver.find_element_by_xpath('//*[@id="bbox"]/div/div[8]/div[2]/span/a[3]')
+#ActionChains(driver).move_to_element(button).click(button).perform()
 
 #if not (driver.find_element_by_xpath('//*[@id="bbox"]/div/div[8]/div[2]/span/a[3]')):
  #   driver.find_element_by_xpath("/html/body/div[4]/div/div[8]/div[2]/span/a[2]").send_keys(Keys.ENTER)
@@ -75,9 +74,14 @@ ActionChains(driver).move_to_element(button).click(button).perform()
 
 #driver.find_element_by_xpath('//*[@id="bbox"]/div/div[8]/div[2]/span/a[3]').click()
 
+element = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.XPATH, '//*[@id="bbox"]/div/div[8]/div[2]/span/a[3]'))
+    )
+driver.find_element_by_xpath('//*[@id="bbox"]/div/div[8]/div[2]/span/a[3]').click()
+           
 button=driver.find_element_by_xpath('//*[@id="booking"]/div/form/div[2]/span/button')
 ActionChains(driver).move_to_element(button).click(button).perform()
-#%%
+
 #Input team members
 button=driver.find_element_by_xpath('//*[@id="form_7"]')
 ActionChains(driver).move_to_element(button).send_keys('A').perform()
