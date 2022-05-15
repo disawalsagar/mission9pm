@@ -40,7 +40,7 @@ element = WebDriverWait(driver, 10).until(
     )
 #select date and time
 
-driver.find_element_by_xpath('//td[@id="m11"]/span').click()
+driver.find_element_by_xpath('//td[@id="m18"]/span').click()
 
 #element = WebDriverWait(driver, 10).until(
  #       EC.presence_of_element_located((By.XPATH, '//*[@id="a4"]/div[1]/div'))
@@ -49,7 +49,7 @@ driver.find_element_by_xpath('//td[@id="m11"]/span').click()
 driver.find_element_by_xpath('//*[@id="a0"]/div[1]/div').click()
 
 driver.find_element_by_id('bbox_wait').click()
-#x = driver.find_element_by_id('bbox_new')
+#driver.find_element_by_id('bbox_new').click()
 #print( driver.find_element_by_id('bbox_new'))
 #x.click()
 #driver.find_element_by_xpath("/html/body/div[4]/div/div[8]/div[2]/span/a[2]").click()
@@ -74,11 +74,10 @@ driver.find_element_by_id('bbox_wait').click()
 
 #driver.find_element_by_xpath('//*[@id="bbox"]/div/div[8]/div[2]/span/a[3]').click()
 
-element = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.XPATH, '//*[@id="bbox"]/div/div[8]/div[2]/span/a[3]'))
-    )
-driver.find_element_by_xpath('//*[@id="bbox"]/div/div[8]/div[2]/span/a[3]').click()
-           
+
+button=driver.find_element_by_xpath('//*[@id="bbox"]/div/div[8]/div[2]/span/a[3]')
+ActionChains(driver).move_to_element(button).click(button).perform() 
+     
 button=driver.find_element_by_xpath('//*[@id="booking"]/div/form/div[2]/span/button')
 ActionChains(driver).move_to_element(button).click(button).perform()
 
