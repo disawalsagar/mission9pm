@@ -1,0 +1,177 @@
+1662696090829	geckodriver	INFO	Listening on 127.0.0.1:49904
+1662696091345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileHwQxmt"
+1662696093328	Marionette	INFO	Marionette enabled
+1662696093344	Marionette	INFO	Listening on port 49914
+Read port: 49914
+1662696094236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileHwQxmt\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+1662696119317	Marionette	INFO	Stopped listening on port 49914
+1662696122093	geckodriver	INFO	Listening on 127.0.0.1:49967
+1662696122616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileNtCghZ"
+1662696124494	Marionette	INFO	Marionette enabled
+1662696124508	Marionette	INFO	Listening on port 49977
+Read port: 49977
+1662696125259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileNtCghZ\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+1662696149117	Marionette	INFO	Stopped listening on port 49977
+1662696151800	geckodriver	INFO	Listening on 127.0.0.1:50031
+1662696152303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofilemqAJjz"
+1662696153885	Marionette	INFO	Marionette enabled
+1662696153899	Marionette	INFO	Listening on port 50040
+Read port: 50040
+1662696154625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofilemqAJjz\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+1662696176826	Marionette	INFO	Stopped listening on port 50040
+1662696498802	geckodriver	INFO	Listening on 127.0.0.1:50121
+1662696499333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileyl5JEI"
+1662696501045	Marionette	INFO	Marionette enabled
+1662696501058	Marionette	INFO	Listening on port 50130
+Read port: 50130
+1662696501844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileyl5JEI\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+1662696543331	Marionette	INFO	Stopped listening on port 50130
+1662696553320	geckodriver	INFO	Listening on 127.0.0.1:50171
+1662696553845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileE5VpXA"
+1662696555206	Marionette	INFO	Marionette enabled
+1662696555215	Marionette	INFO	Listening on port 50180
+Read port: 50180
+1662696555788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileE5VpXA\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+1662696569811	Marionette	INFO	Stopped listening on port 50180
+1662696586340	geckodriver	INFO	Listening on 127.0.0.1:50227
+1662696586896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileTlvyn5"
+1662696588656	Marionette	INFO	Marionette enabled
+1662696588667	Marionette	INFO	Listening on port 50236
+Read port: 50236
+1662696589333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileTlvyn5\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+1662696602994	Marionette	INFO	Stopped listening on port 50236
+1662696606028	geckodriver	INFO	Listening on 127.0.0.1:50276
+1662696606562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofilexQWbww"
+1662696608138	Marionette	INFO	Marionette enabled
+1662696608149	Marionette	INFO	Listening on port 50284
+Read port: 50284
+1662696608768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofilexQWbww\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.supersaas.com."
+1662696620443	Marionette	INFO	Stopped listening on port 50284
+1662720931881	geckodriver	INFO	Listening on 127.0.0.1:50887
+1662720932400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofile6igSTN"
+1662720933434	Marionette	INFO	Marionette enabled
+1662720933444	Marionette	INFO	Listening on port 50896
+Read port: 50896
+1662720934289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofile6igSTN\\search.json.mozlz4", (void 0)))
+1662720941017	Marionette	INFO	Stopped listening on port 50896
+1662720976332	geckodriver	INFO	Listening on 127.0.0.1:50989
+1662720976847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileDVoAdW"
+1662720977696	Marionette	INFO	Marionette enabled
+1662720977706	Marionette	INFO	Listening on port 50998
+Read port: 50998
+1662720978279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileDVoAdW\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staffit.deloitteresources.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1662721122500	Marionette	INFO	Stopped listening on port 50998
+1662721126167	geckodriver	INFO	Listening on 127.0.0.1:51119
+1662721126691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileeumPZN"
+1662721127525	Marionette	INFO	Marionette enabled
+1662721127536	Marionette	INFO	Listening on port 51128
+Read port: 51128
+1662721128053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sdisawal\\AppData\\Local\\Temp\\rust_mozprofileeumPZN\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staffit.deloitteresources.com."
+[Parent 5516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\bookmarkbackups\bookmarks-2022-09-12_11_E+XE6ZQpQmdccx2NDsnYbA==.jsonlz4) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\sdisawal\AppData\Local\Temp\rust_mozprofileeumPZN\thumbnails) because it does not exist
